@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'curse-maneger2';
+
+  name: string = 'HILLARY'
 }
